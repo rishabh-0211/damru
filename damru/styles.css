@@ -88,18 +88,39 @@ footer {
 
 @media (max-width:1250px) {
   .title {
+    margin-top: 10%;
     height: 50%;
   }
 
   .set {
     display: flex;
     flex-direction: column;
-    text-align: space-around;
+    margin-top: 20%;
     justify-content: center;
     height: 50%;
   }
 
+  .drum {
+    width: 200px;
+    height: 200px;
+  }
+
+  .one {
+    margin-bottom: 15%;
+
+  }
+
+  .two {
+    margin-bottom: 15%;
+  }
+
   body {
     height: 100vh;
+  }
+
+  footer {
+    font-size: 50px;
+    margin-top: 30%;
+    margin-bottom: 20%;
   }
 }
