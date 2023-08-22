@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-color: #4a69c3a1;
   margin: 0;
 }
 
@@ -97,12 +97,12 @@ footer {
     flex-direction: column;
     margin-top: 20%;
     justify-content: center;
-    height: 50%;
+    height: 60%;
   }
 
   .drum {
-    width: 200px;
-    height: 200px;
+    width: 235px;
+    height: 235px;
   }
 
   .one {
@@ -115,12 +115,12 @@ footer {
   }
 
   body {
-    height: 100vh;
+    height: 90vh;
   }
 
   footer {
     font-size: 50px;
     margin-top: 30%;
-    margin-bottom: 20%;
+
   }
 }
